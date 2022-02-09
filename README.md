@@ -15,22 +15,22 @@ https://traloc-dheckoa.itch.io/cmmm
 ## Version info
 ###Release: 
 windows, no src
-###Hotifix 1: 
+### Hotifix 1: 
 windows, no src
-###Hotfix 2: 
+### Hotfix 2: 
 windows, no src
-###Big update: 
+### Big update: 
 all, no src
-###Fingersnap: 
+### Fingersnap: 
 all (edited)
 
-###release:
+### release:
 v0.0.0.1
-###hotfix 1:
+### hotfix 1:
 v0.0.0.2
-###hotfix 2:
+### hotfix 2:
 v0.0.0.3
-###"big update": 
+### "big update": 
 v0.1.0.0
-###fingersnap:
+### fingersnap:
 v0.1.0.1 
