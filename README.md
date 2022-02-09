@@ -22,7 +22,7 @@ windows, no src
 ### Big update: 
 all, no src
 ### Fingersnap: 
-all (edited)
+all
 
 ### release:
 v0.0.0.1
