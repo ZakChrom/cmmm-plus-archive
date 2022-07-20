@@ -12,7 +12,7 @@ https://discord.gg/P3hrvCDznw
 https://traloc-dheckoa.itch.io/cmmm
 
 
-## Version info
+~~## Version info
 ### Release - v0.0.0.1: 
 windows, no src
 ### Hotifix 1 - v0.0.0.2: 
@@ -23,3 +23,4 @@ windows, no src
 all, no src
 ### Fingersnap - v0.1.0.1: 
 all
+~~
