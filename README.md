@@ -11,7 +11,7 @@ https://discord.gg/P3hrvCDznw
 ### Cmmm+ itch page:
 https://traloc-dheckoa.itch.io/cmmm
 
-#THIS IS OUTDATED INFO (Im too lazy to change it)
+# THIS IS OUTDATED INFO (Im too lazy to change it)
 
 ~~## Version info
 ### Release - v0.0.0.1: 
