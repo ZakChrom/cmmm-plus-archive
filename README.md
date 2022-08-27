@@ -1,4 +1,4 @@
-# cmmm+ archive
+# CMMM+ Archive
 This repo was made to archive cmmm+
 
 ## Src code:
@@ -13,7 +13,7 @@ https://traloc-dheckoa.itch.io/cmmm
 
 # THIS IS OUTDATED INFO (Im too lazy to change it)
 
-~~## Version info
+## Version info
 ### Release - v0.0.0.1: 
 windows, no src
 ### Hotifix 1 - v0.0.0.2: 
@@ -24,4 +24,4 @@ windows, no src
 all, no src
 ### Fingersnap - v0.1.0.1: 
 all
-~~
+
